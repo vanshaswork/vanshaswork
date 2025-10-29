@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh
 
-<!--
-**vanshaswork/vanshaswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
+**Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, MongoDB  
+**DevOps:** Docker, GitHub Actions, Linux basics  
+**Tools:** VS Code, Git, Postman  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [CostMyTrip](https://github.com/vanshaswork/costmytrip) – Next.js + TypeScript travel cost calculator
+- [Employee Task Manager](https://github.com/vanshaswork/employee-task-manager)
+- [Password Manager](https://github.com/vanshaswork/passwordmanager)
+- [Todo App](https://github.com/vanshaswork/todo-app)
