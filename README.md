@@ -3,8 +3,8 @@
 ## 💻 Tech Stack
 **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express, MongoDB  
-**DevOps:** Docker, GitHub Actions, Linux basics  
-**Tools:** VS Code, Git, Postman  
+**DevOps:**  GitHub Actions, Linux basics  
+**Tools:** VS Code, Git, Github, Postman  
 
 ## 🚀 Projects
 - [CostMyTrip](https://github.com/vanshaswork/costmytrip) – Next.js + TypeScript travel cost calculator
